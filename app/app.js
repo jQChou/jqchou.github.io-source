@@ -1,0 +1,1 @@
+var demo = angular.module('demo', ['ui.router', 'oc.lazyLoad']);

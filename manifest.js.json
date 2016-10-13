@@ -1,0 +1,6 @@
+{
+  "app.min.js": "app.min.js?rev=ddf0b5d0f8",
+  "app.router.min.js": "app.router.min.js?rev=4433f4e9f4",
+  "page1/controllers/page1Ctrl.min.js": "page1/controllers/page1Ctrl.min.js?rev=87592cef05",
+  "page2/controllers/page2Ctrl.min.js": "page2/controllers/page2Ctrl.min.js?rev=b00df039f3"
+}

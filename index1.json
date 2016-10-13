@@ -1,0 +1,183 @@
+{
+    "code": 0,
+    "message": "",
+    "result": {
+        "545c4e37e7a3d6c656abaaaa": {
+            "name": "句容市文化艺术中心",
+            "level": 5,
+            "uaec": 0.14,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        },
+        "53f36f2e0ce759e41d58a203": {
+            "name": "亭湖区",
+            "uaec": 0,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        },
+        "553b7a466a50c64c03aec1e8": {
+            "name": "西双版纳云投喜来登酒店",
+            "level": 5,
+            "uaec": 5.36,
+            "ecslevel": 3,
+            "ecsdesc": "3.8-5.7 KWh"
+        },
+        "549bfb89b06197280985bf10": {
+            "name": "杭州中大银泰城",
+            "level": 1,
+            "uaec": 1.43,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        },
+        "5571cb42cd505e6d3d24b4de": {
+            "name": "黄龙饭店",
+            "level": 5,
+            "uaec": 2.44,
+            "ecslevel": 2,
+            "ecsdesc": "1.8-3.8 KWh"
+        },
+        "55a76be51b4f68ab7eba50d1": {
+            "name": "义乌文华酒店",
+            "level": 4,
+            "uaec": 13.24,
+            "ecslevel": 5,
+            "ecsdesc": ">7.7 KWh"
+        },
+        "55f594113833345b65f18ca7": {
+            "name": "温州城市大学",
+            "level": 0,
+            "uaec": 3.11,
+            "ecslevel": 2,
+            "ecsdesc": "1.8-3.8 KWh"
+        },
+        "56700c96337c4f2f0b18e0ce": {
+            "name": "成都茂业",
+            "level": 2,
+            "uaec": 0,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        },
+        "569bb92611683bf155119977": {
+            "name": "云平台",
+            "level": 5,
+            "uaec": 0,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        },
+        "540c607711a590e425dffa14": {
+            "name": "EHS",
+            "uaec": 74.89,
+            "ecslevel": 5,
+            "ecsdesc": ">7.7 KWh"
+        },
+        "5497a7c01bdf2e694125127f": {
+            "name": "浙江大学医学院附属义乌医院",
+            "level": 1,
+            "uaec": 7.43,
+            "ecslevel": 4,
+            "ecsdesc": "5.7-7.7 KWh"
+        },
+        "55b0ff86f5b269ee77271d65": {
+            "name": "宁波市建委大厦",
+            "level": 1,
+            "uaec": 16.92,
+            "ecslevel": 5,
+            "ecsdesc": ">7.7 KWh"
+        },
+        "55000dca081bae4f3c041885": {
+            "name": "宁波中信银行大厦",
+            "level": 1,
+            "uaec": 3270.46,
+            "ecslevel": 5,
+            "ecsdesc": ">7.7 KWh"
+        },
+        "55d57bd90cdd96952445e272": {
+            "name": "华州创业大楼",
+            "level": 1,
+            "uaec": 7.65,
+            "ecslevel": 4,
+            "ecsdesc": "5.7-7.7 KWh"
+        },
+        "53f3f305b65324e85f2b2322": {
+            "name": "盐城市政府",
+            "uaec": 0,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        },
+        "5673769b2237bcd6110dfc3c": {
+            "name": "睿东中心",
+            "level": 5,
+            "uaec": 0,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        },
+        "56713c947f0fd05911d382f4": {
+            "name": "迪诺水镇",
+            "uaec": 27.41,
+            "ecslevel": 5,
+            "ecsdesc": ">7.7 KWh"
+        },
+        "5684cfc2ca5e51f1525bfb23": {
+            "name": "浙江旅游职业学院",
+            "level": 5,
+            "uaec": 1.42,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        },
+        "5692129965c01106211c92d2": {
+            "name": "长兴建设大厦",
+            "uaec": 0.07,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        },
+        "569ce2f249e9d0f923db9533": {
+            "name": "预付费演示系统",
+            "level": 5,
+            "uaec": 0.02,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        },
+        "55099e0eb3fe20bb5b894a40": {
+            "name": "宁波天一豪景",
+            "level": 0,
+            "uaec": 1.89,
+            "ecslevel": 2,
+            "ecsdesc": "1.8-3.8 KWh"
+        },
+        "5645e37a903ccc0212c677a4": {
+            "name": "杭州歌德酒店",
+            "level": 5,
+            "uaec": 0,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        },
+        "568ba07fc627925b5beb442c": {
+            "name": "东海水晶城",
+            "level": 5,
+            "uaec": 13.22,
+            "ecslevel": 5,
+            "ecsdesc": ">7.7 KWh"
+        },
+        "572b34df0be3764a5610b77b": {
+            "name": "杭州红十字会医院",
+            "level": 5,
+            "uaec": 1.01,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        },
+        "57888f4253a5c6ca208ce03a": {
+            "name": "柏诚测试项目",
+            "level": 1,
+            "uaec": 0,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        },
+        "57b4941142f117206e381e19": {
+            "name": "回归测试",
+            "level": 4,
+            "uaec": 0,
+            "ecslevel": 1,
+            "ecsdesc": "<1.8 KWh"
+        }
+    }
+}
