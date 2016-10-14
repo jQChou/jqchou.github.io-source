@@ -154,7 +154,7 @@ gulp.task('build-index', ['build-router'], function () {
     });
 });
 
-//
+//生成CNAME文件
 gulp.task('build-CNAME', ['build-index'], function () {
     return gulp.src(paths.src + 'CNAME').pipe(pkg.revReplace({
         manifest: gulp.src(manifest.css)
@@ -168,8 +168,22 @@ gulp.task('build-CNAME', ['build-index'], function () {
     });
 });
 
+//生成json文件
+gulp.task('build-json', ['build-CNAME'], function () {
+    return gulp.src(paths.src + '**/*.json').pipe(pkg.revReplace({
+        manifest: gulp.src(manifest.css)
+    })).pipe(pkg.revReplace({
+        manifest: gulp.src(manifest.js)
+    })).pipe(pkg.htmlmin({
+        collapseWhitespace: true,
+        removeComments: true
+    })).pipe(gulp.dest(paths.build)).on('finish', function () {
+        setTimeout(browserSync.reload);
+    });
+});
+
 //监控文件
-gulp.task('watch', function () {
+gulp.task('watch', ['build-json'], function () {
     gulp.watch([
         paths.src + '**/*.*',
         paths.src + '**/*.*'

@@ -1,7 +1,16 @@
 <div class="clearfix container m-t-50">
-    <div class="pull-left col-sm-8" style="border:1px solid red"></div>
-    <div class="list-group col-sm-3 pull-right">
-        <a class="list-group-item active-ctrl" ng-repeat="l in list">
+    <div class="pull-left col-xs-9">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">{{article.title}}</h3>
+            </div>
+            <div class="panel-body">
+                {{article.content}}
+            </div>
+        </div>
+    </div>
+    <div class="list-group col-xs-3 pull-right">
+        <a class="list-group-item active-ctrl" ng-click="articleChange(l)" ng-repeat="l in list">
             {{l.title}}
         </a>
     </div>
