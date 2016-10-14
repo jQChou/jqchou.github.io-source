@@ -1,6 +1,6 @@
 {
   "app.min.js": "app.min.js?rev=02f9d237ad",
-  "app.router.min.js": "app.router.min.js?rev=fb6816b5f3",
+  "app.router.min.js": "app.router.min.js?rev=1c44d04d2f",
   "common/directives/nav.min.js": "common/directives/nav.min.js?rev=a18cce0691",
   "page1/controllers/page1Ctrl.min.js": "page1/controllers/page1Ctrl.min.js?rev=8b75c9a49c",
   "page2/controllers/page2Ctrl.min.js": "page2/controllers/page2Ctrl.min.js?rev=a754da7936"
