@@ -1,1 +1,1 @@
-var demo = angular.module('demo', ['ui.router', 'oc.lazyLoad']);
+var myBlog = angular.module('blog', ['ui.router', 'oc.lazyLoad']);

@@ -1,6 +1,7 @@
 {
-  "app.min.js": "app.min.js?rev=ddf0b5d0f8",
-  "app.router.min.js": "app.router.min.js?rev=4433f4e9f4",
-  "page1/controllers/page1Ctrl.min.js": "page1/controllers/page1Ctrl.min.js?rev=87592cef05",
-  "page2/controllers/page2Ctrl.min.js": "page2/controllers/page2Ctrl.min.js?rev=b00df039f3"
+  "app.min.js": "app.min.js?rev=02f9d237ad",
+  "app.router.min.js": "app.router.min.js?rev=ebb030c1d8",
+  "common/directives/nav.min.js": "common/directives/nav.min.js?rev=a18cce0691",
+  "page1/controllers/page1Ctrl.min.js": "page1/controllers/page1Ctrl.min.js?rev=6288ab18cb",
+  "page2/controllers/page2Ctrl.min.js": "page2/controllers/page2Ctrl.min.js?rev=a754da7936"
 }

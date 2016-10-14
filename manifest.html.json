@@ -1,6 +1,8 @@
 {
-  "common/templete/pageIndex.html": "common/templete/pageIndex.html?rev=4a3e0be9ff",
-  "index.html": "index.html?rev=73e4171567",
-  "page1/page1.html": "page1/page1.html?rev=7d5699c6b1",
-  "page2/page2.html": "page2/page2.html?rev=b28fa609a0"
+  "common/templete/main.html": "common/templete/main.html?rev=b532a98024",
+  "common/templete/pageIndex.html": "common/templete/pageIndex.html?rev=7d6020f64e",
+  "home/home.html": "home/home.html?rev=70b8d6e94c",
+  "index.html": "index.html?rev=79de9a4151",
+  "page1/page1.html": "page1/page1.html?rev=3ca0916938",
+  "page2/page2.html": "page2/page2.html?rev=29faf51cca"
 }
