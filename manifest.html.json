@@ -3,6 +3,8 @@
   "common/templete/pageIndex.html": "common/templete/pageIndex.html?rev=7d6020f64e",
   "home/home.html": "home/home.html?rev=671da7346d",
   "index.html": "index.html?rev=4500b02f2f",
+  "node_modules/clone/test-apart-ctx.html": "node_modules/clone/test-apart-ctx.html?rev=2e19bbe38f",
+  "node_modules/clone/test.html": "node_modules/clone/test.html?rev=e260d9e362",
   "page1/page1.html": "page1/page1.html?rev=bec687f387",
   "page2/page2.html": "page2/page2.html?rev=44a5f9e71d"
 }
